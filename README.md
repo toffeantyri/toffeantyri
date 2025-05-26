@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Привет, я Антон</h1>
-  <p><strong>Android-разработчик | Kotlin | Jetpack | Architecture Components | Нацелен стать Senior/Tech Lead</strong></p>
+  <p><strong> Android-разработчик| Kotlin | KMP | Compose Multiplatform | Architecture Components | Нацелен стать Senior/Tech Lead</strong></p>
 
   <p>Разрабатываю мобильные приложения с акцентом на качество, производительность и удобство использования.</p>
 
