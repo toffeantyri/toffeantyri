@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toffeantyri" alt="toffeantyri" /></a> </p>
 
-<h3 align="left">Connect with me: t.me/tonyshampan</h3>
+<h3 align="left">
+- 📝 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/toffeantyri)
+</h3>
 <p align="left">
 </p>
 
