@@ -6,6 +6,7 @@
 - 📝 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/tonyshampan)
 
 
+- 🔡 Profile GitHub Activity
 ![GitHub Activity Chart](https://ghchart.rshah.org/toffeantyri)
 
 <h3 align="left">Languages and Tools:</h3>
