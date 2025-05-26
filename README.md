@@ -18,5 +18,5 @@
 
 ⚙️ Что сейчас изучаю
 
-![Currently learning](https://img.shields.io/badge/Currently%20learning-Android%20Max-Performance-blue )
+![Currently learning](https://img.shields.io/badge/Currently%20learning-Android%20Performance-blue )
 
