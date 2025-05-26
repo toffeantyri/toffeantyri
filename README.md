@@ -1,6 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Anton, I'm from Russia.</h1>
+<h1 align="center">Hi 👋, I'm Anton, I'm from Russia.</h1> 
+
+![Status](https://img.shields.io/badge/I%20am%20-available%20for%20hire !-green?style=flat-square)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toffeantyri&label=Profile%20views&color=0e75b6&style=flat" alt="toffeantyri" /> </p>
 
 - 📝 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/tonyshampan)
