@@ -13,8 +13,7 @@
 | Категория       | Технологии / Инструменты |
 |----------------|--------------------------|
 | **Языки**      | Kotlin, Java             |
-| **Фреймворки** | Jetpack Compose, ViewModel, LiveData, Room, Retrofit, Dagger/Hilt |
-| **Тестирование** | JUnit, Mockito, Espresso |
+| **Фреймворки** | Jetpack Compose + Multiplatform, Kotlin multiplatform  |
 | **CI/CD**      | GitHub Actions           |
 | **Другое**     | Git, Gradle, Coroutines, Flow, MVVM |
 
