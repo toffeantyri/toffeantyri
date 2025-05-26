@@ -22,7 +22,7 @@
 
 ⚙️ Что сейчас изучаю
 
-![Currently learning](https://img.shields.io/badge/Currently%20learning-Android%20Performance-blue )
+![Currently learning](https://img.shields.io/badge/Currently%20learning-Ktor%20Server-blue )
 
 
  🔡 Profile GitHub Activity
