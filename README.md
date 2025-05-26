@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=toffeantyri&label=Profile%20views&color=0e75b6&style=flat" alt="toffeantyri" /> </p>
 <div align="center">
   <h1>👋 Привет, я Антон</h1>
   <p><strong> Android-разработчик| Kotlin | KMP | Compose Multiplatform | Architecture Components | Нацелен стать Senior/Tech Lead</strong></p>
@@ -22,11 +23,6 @@
 ⚙️ Что сейчас изучаю
 
 ![Currently learning](https://img.shields.io/badge/Currently%20learning-Android%20Performance-blue )
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toffeantyri&label=Profile%20views&color=0e75b6&style=flat" alt="toffeantyri" /> </p>
-
-
 
 
 - 🔡 Profile GitHub Activity
