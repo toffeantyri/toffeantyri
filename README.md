@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toffeantyri&label=Profile%20views&color=0e75b6&style=flat" alt="toffeantyri" /> </p>
 
-![Goal](https://img.shields.io/badge/Goal-Become-Senior-Android-Dev )
-
 - 📝 Priority contact with me via telegram
 ![Status](https://img.shields.io/badge/I%20am%20-available%20for%20hire!-green?style=flat-square) [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/tonyshampan)
 
