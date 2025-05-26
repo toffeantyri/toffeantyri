@@ -17,7 +17,7 @@
 | **Языки**      | Kotlin       |
 | **Фреймворки** | Jetpack Compose + Multiplatform, Kotlin Multiplatform, Decompose |
 | **CI/CD**      | GitHub Actions           |
-| **Другое**     | Git, Gradle, Coroutines, Flow, MVVM, MVI, Ktor, Room, DataStore, Reyrofit |
+| **Другое**     | Git, Gradle, Coroutines, Flow, MVVM, MVI, Ktor, Room, DataStore, Retrofit |
 
 
 ⚙️ Что сейчас изучаю
