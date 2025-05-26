@@ -6,7 +6,7 @@
  📝 Priority contact with me via telegram
 ![Status](https://img.shields.io/badge/I%20am%20-available%20for%20hire!-green?style=flat-square) [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/tonyshampan)
 
-[![HH.ru](https://img.shields.io/badge/-Telegram-090909?logo=HH.ru&logoColor=FF6347)](https://hh.ru/resume/09425bb9ff0b116f6e0039ed1f4b4b786c616e)
+[![HH.ru](https://img.shields.io/badge/-Telegram-090909?)](https://hh.ru/resume/09425bb9ff0b116f6e0039ed1f4b4b786c616e)
 
   <p>Разрабатываю мобильные приложения с акцентом на качество, производительность и удобство использования.</p>
 
