@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anton, I'm from Russia.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toffeantyri&label=Profile%20views&color=0e75b6&style=flat" alt="toffeantyri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toffeantyri" alt="toffeantyri" /></a> </p>
-
 - 📝 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/tonyshampan)
 
 
