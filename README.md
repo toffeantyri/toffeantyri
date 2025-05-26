@@ -3,7 +3,7 @@
   <h1>👋 Привет, я Антон</h1>
   <p><strong> Android-разработчик| Kotlin | KMP | Compose Multiplatform | Architecture Components | Нацелен стать Senior/Tech Lead</strong></p>
 
-- 📝 Priority contact with me via telegram
+ 📝 Priority contact with me via telegram
 ![Status](https://img.shields.io/badge/I%20am%20-available%20for%20hire!-green?style=flat-square) [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/tonyshampan)
 
   <p>Разрабатываю мобильные приложения с акцентом на качество, производительность и удобство использования.</p>
@@ -25,7 +25,7 @@
 ![Currently learning](https://img.shields.io/badge/Currently%20learning-Android%20Performance-blue )
 
 
-- 🔡 Profile GitHub Activity
+ 🔡 Profile GitHub Activity
 ![GitHub Activity Chart](https://ghchart.rshah.org/toffeantyri)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +36,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toffeantyri&show_icons=true&locale=en&layout=compact" alt="toffeantyri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toffeantyri&show_icons=true&locale=en&layout=compact" alt="toffeantyri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toffeantyri&show_icons=true&locale=en" alt="toffeantyri" /></p>
