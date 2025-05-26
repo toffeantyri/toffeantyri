@@ -13,11 +13,10 @@
 | Категория       | Технологии / Инструменты |
 |----------------|--------------------------|
 | **Языки**      | Kotlin, Java             |
-| **Фреймворки** | Jetpack Compose + Multiplatform, Kotlin multiplatform, Decompose |
+| **Фреймворки** | Jetpack Compose + Multiplatform, Kotlin Multiplatform, Decompose |
 | **CI/CD**      | GitHub Actions           |
-| **Другое**     | Git, Gradle, Coroutines, Flow, MVVM, Ktor, Room, DataStore |
+| **Другое**     | Git, Gradle, Coroutines, Flow, MVVM, MVI, Ktor, Room, DataStore, Reyrofit |
 
----
 
 ⚙️ Что сейчас изучаю
 
