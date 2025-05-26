@@ -13,9 +13,9 @@
 | Категория       | Технологии / Инструменты |
 |----------------|--------------------------|
 | **Языки**      | Kotlin, Java             |
-| **Фреймворки** | Jetpack Compose + Multiplatform, Kotlin multiplatform  |
+| **Фреймворки** | Jetpack Compose + Multiplatform, Kotlin multiplatform, Decompose |
 | **CI/CD**      | GitHub Actions           |
-| **Другое**     | Git, Gradle, Coroutines, Flow, MVVM |
+| **Другое**     | Git, Gradle, Coroutines, Flow, MVVM, Ktor, Room, DataStore |
 
 ---
 
